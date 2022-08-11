@@ -1,0 +1,16 @@
+{
+  "name": "brainfudge",
+  "version": "1.0.0",
+  "description": "Brainf*** interpreter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "main": "./index",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vows": ">= 0.5.9"
+  }
+}
